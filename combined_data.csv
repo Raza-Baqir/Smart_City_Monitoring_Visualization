@@ -1,4 +1,4 @@
-,date,avg_temp,min_temp,max_temp,prcp,snow,wind_dir,wind_spd,p_gust,air_pres,sun_time,city
+,date,tavg,tmin,tmax,prcp,snow,wdir,wspd,wpgt,pres,tsun,city
 0,2024-01-01,11.5,6.3,19.0,0.0,0.0,128.0,3.4,0.0,1019.9,0.0,Islamabad
 1,2024-01-02,8.0,5.4,13.3,0.0,0.0,125.0,4.3,0.0,1019.7,0.0,Islamabad
 2,2024-01-03,7.2,5.2,12.6,0.0,0.0,153.0,3.2,0.0,1020.1,0.0,Islamabad
